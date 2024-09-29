@@ -129,8 +129,3 @@ If you want to deploy the project:
 ## Conclusion
 This project offers a simple yet powerful tool for managing personal finances. It combines a React.js frontend with a Node.js/Express.js backend, using MongoDB for database storage. By following the setup instructions, you should be able to run the project locally or deploy it in a production environment.
 
-Feel free to reach out if you encounter any issues or have questions!
-
----
-
-Let me know if you'd like any changes or additional sections!
