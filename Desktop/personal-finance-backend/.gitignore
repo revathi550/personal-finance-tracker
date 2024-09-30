@@ -1,0 +1,66 @@
+   # System files
+   *.log
+   *.tmp
+   *.dat
+   *.ini
+   NTUSER.DAT*
+   mongod
+
+   # macOS system files
+   .DS_Store
+   .AppleDouble
+   .LSOverride
+
+   # Windows system files
+   Thumbs.db
+   ehthumbs.db
+   Desktop.ini
+   $RECYCLE.BIN/
+   AppData/
+   Contacts/
+   Cookies/
+   Desktop/
+   Documents/
+   Downloads/
+   Favorites/
+   Links/
+   Music/
+   OneDrive/
+   Pictures/
+   Saved Games/
+   Searches/
+   Videos/
+   Local Settings/
+   Recent/
+   SendTo/
+   Start Menu/
+   Templates/
+   PrintHood/
+   NetHood/
+   Application Data/
+
+   # IDE and Editor config
+   .vscode/
+   .eclipse/
+   .idlerc/
+   .sts4/
+   .m2/
+   .p2/
+   .cache/
+   .yarnrc
+
+   # Node.js
+   node_modules/
+   yarn.lock
+
+   # Compiled binary files
+   *.exe
+   *.o
+   *.out
+
+   # Java/Maven/Gradle
+   *.class
+   .classpath
+   .project
+   target/
+   
